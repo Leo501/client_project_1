@@ -22,7 +22,7 @@ var HTTP = cc.Class({
             var xhr = cc.loader.getXMLHttpRequest();
             xhr.timeout = 5000;
             var str = "?";
-            for (var k in data) {
+            for (let k in data) {
                 if (str !== "?") {
                     str += "&";
                 }
