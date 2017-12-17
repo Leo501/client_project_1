@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "b6bb9a9b-fc58-4acc-ba5a-a992cde48f90",
+  "rawTextureUuid": "92fb8b3d-da46-4777-a179-777586531106",
+  "size": {
+    "width": 128,
+    "height": 256
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "dy_play_ting_btn.png": {
+      "ver": "1.0.3",
+      "uuid": "ccca4c0d-41e9-45f3-b4e1-fdcf9d1c3a1c",
+      "rawTextureUuid": "92fb8b3d-da46-4777-a179-777586531106",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 116,
+      "height": 116,
+      "rawWidth": 116,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "dy_play_wenhao.png": {
+      "ver": "1.0.3",
+      "uuid": "bc1c0113-cfb9-40f5-9816-7093626dd815",
+      "rawTextureUuid": "92fb8b3d-da46-4777-a179-777586531106",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 120,
+      "width": 78,
+      "height": 78,
+      "rawWidth": 78,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

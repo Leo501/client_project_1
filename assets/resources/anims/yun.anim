@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yun",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "dfde07e1-1105-47de-9a8d-284c89c199aa"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "9f16b720-1a39-4e34-a227-dae951b49652"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0c833500-9a0e-42ea-9bbc-a80696eb3171"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "f9b1b881-1954-4774-a632-944a0ae02057"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.ypgames.zymj",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "8a546935-70d4-42d2-a051-8d0e76f28008",
+  "title": "zymj",
+  "webOrientation": "auto"
+}

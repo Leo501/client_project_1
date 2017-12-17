@@ -1,0 +1,10 @@
+1.原生打包的话，要注意build\jsb-binary下的main.js 添加上搜索路径。
+解决办法：打开cocos creator安装路径下resources\static\build-templates\shares 找到main.js文件。在function boot(){}之前
+添加上以下代码：
+if (cc.sys.isNative) {
+        var hotUpdateSearchPaths = cc.sys.localStorage.getItem('HotUpdateSearchPaths');
+        if (hotUpdateSearchPaths) {
+            jsb.fileUtils.setSearchPaths(JSON.parse(hotUpdateSearchPaths));
+        }
+    }
+可参考本工程目录下的main.js文件

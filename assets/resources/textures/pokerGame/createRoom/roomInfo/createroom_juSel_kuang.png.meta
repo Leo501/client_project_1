@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "078e6cf3-7b53-427e-8571-f9a90ec46434",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "createroom_juSel_kuang": {
+      "ver": "1.0.3",
+      "uuid": "ad6cfb6d-f461-43c2-9b59-fc257e8945ef",
+      "rawTextureUuid": "078e6cf3-7b53-427e-8571-f9a90ec46434",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 193,
+      "height": 247,
+      "rawWidth": 193,
+      "rawHeight": 247,
+      "borderTop": 25,
+      "borderBottom": 37,
+      "borderLeft": 27,
+      "borderRight": 26,
+      "subMetas": {}
+    }
+  }
+}

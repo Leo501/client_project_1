@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "383c3fb9-2108-40a1-91f1-60c91acece68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "daikai-on": {
+      "ver": "1.0.3",
+      "uuid": "2058e49a-8110-42e4-b256-368dc9896558",
+      "rawTextureUuid": "383c3fb9-2108-40a1-91f1-60c91acece68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 85,
+      "rawWidth": 196,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

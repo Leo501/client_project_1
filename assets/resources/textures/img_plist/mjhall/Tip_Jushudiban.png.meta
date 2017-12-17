@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fe582d32-6420-46c0-a8ba-f21e70d1f75e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Tip_Jushudiban": {
+      "ver": "1.0.3",
+      "uuid": "07226c32-b36a-407b-9808-d9e2cb0e9ce0",
+      "rawTextureUuid": "fe582d32-6420-46c0-a8ba-f21e70d1f75e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 99,
+      "height": 34,
+      "rawWidth": 99,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

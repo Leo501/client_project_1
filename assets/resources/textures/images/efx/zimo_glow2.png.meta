@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "efd013e3-b541-4f49-a884-9a1a1c99bf57",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zimo_glow2": {
+      "ver": "1.0.3",
+      "uuid": "41f998bb-21e3-4317-a2d8-839c2125896d",
+      "rawTextureUuid": "efd013e3-b541-4f49-a884-9a1a1c99bf57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 5,
+      "trimX": 35,
+      "trimY": 0,
+      "width": 430,
+      "height": 246,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
