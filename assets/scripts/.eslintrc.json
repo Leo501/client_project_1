@@ -1,0 +1,44 @@
+{
+    "env": {
+        "node": true,
+		"commonjs": true,
+        "es6": true
+    },
+    "extends": "airbnb",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+	"globals":{
+		"cc":true,
+		"window":true
+	},
+    "rules": {
+		"no-console":"off",
+        "indent": [
+            "error",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "windows"
+        ],
+        "quotes": "off",
+        "semi": [
+            "error",
+            "always"
+        ],
+		"no-unused-vars":"off",
+		"no-plusplus":"off",
+		"prefer-const":"off",
+		"no-bitwise":"off",
+		"no-mixed-operators":"off",
+		"eol-last":"warn",
+		"object-shorthand":"off",
+		"spaced-comment":"off",
+		"camelcase":"off",
+		"jsx-a11y/href-no-hash":"off",
+		"quote-props":"off",
+		"prefer-template":"off",
+		"indent": ["error", 4, { "SwitchCase": 1 }]
+    }
+}

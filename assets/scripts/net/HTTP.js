@@ -6,7 +6,6 @@
 
 // var URL = "http://192.168.0.103:7000";
 var URL = "http://139.129.109.236:8000";
-// var URL = "http://101.37.81.210:7000";
 
 cc.VERSION = 20161204;
 
@@ -24,7 +23,7 @@ var HTTP = cc.Class({
             xhr.timeout = 5000;
             var str = "?";
             for (var k in data) {
-                if (str != "?") {
+                if (str !== "?") {
                     str += "&";
                 }
                 str += k + "=" + data[k];

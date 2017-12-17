@@ -7,6 +7,7 @@
 //
 const LoaderMng = require('LoaderMng');
 const AnimationUtil = require('AnimationUtil');
+
 window.G = {
     VERSION: 'v2.0.0',
     curNode: null,
