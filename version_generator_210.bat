@@ -1,1 +1,0 @@
-node version_generator.js -v 1.2.28 -u http://test.yp6868.com/remote-assets-zy/ -s build/jsb-binary/ -d assets/
