@@ -34,9 +34,9 @@ cc.Class({
     // LIFE-CYCLE CALLBACKS:
 
     onLoad() {
-        console.log('onload userInfoBase',this.node);
+        console.log('onload userInfoBase', this.node);
         this.node.addComponent('Actor');
-        
+
         this._actor = this.node.getComponent('Actor');
         this._actor.init();
         this._sexFemale = this.node.getChildByName('sex_female');
@@ -64,7 +64,6 @@ cc.Class({
                     console.log('set ip error ', data.ip);
                 }
             }
-
         }
     },
 
@@ -73,10 +72,10 @@ cc.Class({
         if (this._sexFemale && this._sexMale) {
             this._sexFemale.active = false;
             this._sexMale.active = false;
-            if (sex == 1) {
+            if (sex === 1) {
                 this._sexMale.active = true;
                 this._sexFemale.active = false;
-            } else if (sex == 2) {
+            } else if (sex === 2) {
                 this._sexFemale.active = true;
                 this._sexMale.active = false;
             }
@@ -96,7 +95,5 @@ cc.Class({
         this.node.removeFromParent();
     },
 
-    update(dt) {
-        // this._super();
-    },
+    update(dt) {},
 });

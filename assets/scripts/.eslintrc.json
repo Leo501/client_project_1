@@ -39,6 +39,8 @@
 		"jsx-a11y/href-no-hash":"off",
 		"quote-props":"off",
 		"prefer-template":"off",
+		"no-underscore-dangle":"off",
+		"comma-dangle":"off",
 		"indent": ["error", 4, { "SwitchCase": 1 }]
     }
 }
